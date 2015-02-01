@@ -1,1 +1,33 @@
-bin
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+/.classpath
+/.project
+/.settings
+/bin
+
+# Maven
+/target
+/pom.*
+
+# NetBeans
+/nbproject
+
+# vim
+.*.sw[a-p]
+
+# Mac
+*.DS_Store
+
+# Ant
+build.number
+
+# git
+/.gitignore
+
+# Repository
+/repo
